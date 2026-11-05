@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-business-workflow-reconciliation-3b42eab6-flutter",
+  "capabilityKey": "liberusoftware/module-liberu-business-workflow-reconciliation",
+  "presentation": "mobile-flutter",
+  "package": "module_module_liberu_business_workflow_reconciliation_3b42eab6_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-business-workflow-reconciliation.md",
+  "presentationPlan": "projects/accounting/flutter/liberu-business-workflow-reconciliation.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
